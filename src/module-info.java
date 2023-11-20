@@ -4,5 +4,5 @@
 /**
  * 
  */
-module EmployeeCollection {
+module Streams {
 }
