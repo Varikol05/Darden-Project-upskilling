@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Collection {
+module EmployeeCollection {
 }
